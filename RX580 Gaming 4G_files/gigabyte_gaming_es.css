@@ -1,0 +1,447 @@
+.gigabyte_vga_flex{
+	display: flex;
+}
+
+.gigabyte_vga_slogan_w{
+	width: 35%;
+	padding-left: 8%;
+	color: #000;
+	text-align: center;
+}
+
+.gigabyte_vga_slogan_w h2{
+
+	color: #000;
+	text-shadow: 2px #000;
+	font-size: 1.5rem;
+}
+
+.gigabyte_vga_slogan_i{
+	width: 65%;
+}
+
+.gigabyte_gaming_h2{
+	font-size: 2rem;
+}
+
+.gigabyte_gaming_cooling_h2{
+	font-size: 1.3rem;
+	color:#000;
+}
+
+.gigabyte_gaming_cooling_i{
+	width: 50%
+}
+
+.gigabyte_gaming_cooling_w{
+	width: 50%;
+}
+
+.gigabyte_gaming_cooling{
+	background-image: url(../img/product/55.png);
+}
+
+.gigabyte_gaming_cooling_002_w{
+	min-height: 400px;
+	padding: 3%;
+}
+
+.gigabyte_gaming_cooling_003_i{
+	width: 55%;
+}
+
+.gigabyte_gaming_cooling_003_w{
+	width: 45%;
+	margin-bottom: 5%;
+}
+
+.gigabyte_gaming_cooling_004_i{
+	width: 60%;
+}
+
+.gigabyte_gaming_cooling_004_w{
+	width: 40%;
+}
+
+.gigabyte_gaming_rgb_i{
+	width: 15%;
+	display: inline-block;
+}
+
+.gigabyte_gaming_rgb_w{
+	width: 85%;
+}
+
+.gigabyte_gaming_du_i{
+	width: 50%;
+	padding: 5%;
+}
+
+.gigabyte_gaming_du_w{
+	width: 50%;
+	margin-bottom: 5%;
+	border: 15px solid #ff6400;
+	padding: 5% 3% 5% 4%;
+}
+
+.gigabyte_gaming_le_w {
+	width: 40%;
+}
+.gigabyte_gaming_le_i {
+	width: 60%;
+}
+
+.gigabyte_gaming_du{
+	padding-bottom: 5%;
+}
+
+.gigabyte_gaming_en_download{
+	width: 45%;
+	background-image: url(../img/product/65.png);
+	padding: 5% 5% 5% 0;
+}
+
+.gigabyte_gaming_en_download_w{
+	max-width: 450px;
+}
+
+.gigabyte_gaming_overclock{
+	width: 55%;
+	background-image: url(../img/product/66.png);
+	padding: 5% 0 5% 5%;
+}
+
+.gigabyte_gaming_overclock_w{
+	width: 60%;
+	max-width: 450px;
+}
+
+.gigabyte_gaming_overclock_i{
+	width: 40%;
+	padding-left: 5%;
+}
+
+.gigabyte_gaming_download_btn{
+	transition:.2s;
+	border:#fff 2px solid;
+}
+
+.gigabyte_gaming_download_btn p {
+	transition:.2s;
+}
+
+.gigabyte_gaming_download_btn:hover{
+	transition:.2s;
+	border:#ff6400 2px solid;
+}
+
+.gigabyte_gaming_download_btn:hover.gigabyte_gaming_download_btn p {
+	transition:.2s;
+	color: #ff6400;
+}
+
+
+
+
+@media screen and (min-width: 1500px) {}
+
+@media screen and (min-width: 1200px) and (max-width: 1500px) {
+	.gigabyte_vga_slogan_w{
+	width: 35%;
+	padding-left: 0%;
+	color: #000;
+	text-align: center;
+}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+	.gigabyte_vga_slogan_w{
+	width: 40%;
+	padding-left: 0%;
+	color: #000;
+	text-align: center;
+	}
+
+	.gigabyte_vga_slogan_w h2{
+	padding-top: 5%;
+	color: #000;
+	text-shadow: 2px #000;
+	font-size: 1.2rem;
+	}
+
+	.gigabyte_vga_slogan_i{
+	width: 60%;
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+	.gigabyte_vga_flex{
+	display: block;
+	}
+
+	.gigabyte_vga_slogan_w{
+	width: 100%;
+	padding-left: 0%;
+	text-align: left;
+	}
+
+	.gigabyte_vga_slogan_w h2{
+	color: #000;
+	text-shadow: 2px #000;
+	font-size: 1.2rem;
+	}
+
+	.gigabyte_vga_slogan_i{
+	width: 100%;
+	}
+
+
+	.gigabyte_gaming_h2{
+	font-size: 1.5rem;
+	}
+
+	.gigabyte_gaming_cooling_h2{
+	font-size: 1.0rem;
+	color:#fff;
+	}
+
+	.gigabyte_gaming_cooling_i{
+	width: 100%
+	}
+
+	.gigabyte_gaming_cooling_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling{
+	background-image:none;
+	}
+
+	.gigabyte_gaming_cooling_002_w{
+	min-height: 0px;
+	padding: 3%;
+	}
+
+	.gigabyte_gaming_cooling_003_i{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling_003_w{
+	width: 100%;
+	margin-bottom: 0%;
+
+	}
+
+	.gigabyte_gaming_cooling_004_i{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling_004_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_rgb_i{
+	width: 100%;
+	display: block;
+	}
+
+	.gigabyte_gaming_rgb_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_du_i{
+	width: 100%;
+	padding: 0%;
+	}
+
+	.gigabyte_gaming_du_w{
+	width: 100%;
+	margin-bottom: 10%;
+	border: none;
+	}
+
+	.gigabyte_gaming_le_w {
+		width: 100%;
+	}
+	.gigabyte_gaming_le_i {
+		width: 100%;
+	}
+
+	.gigabyte_gaming_du{
+	padding-bottom: 15%;
+	}
+
+	.gigabyte_gaming_en_download{
+	width: 100%;
+	background-image: none;
+	padding: 5%;
+	}
+
+	.gigabyte_gaming_overclock{
+	width: 100%;
+	background-image: none;
+	padding: 5%;
+	}
+
+	.gigabyte_gaming_overclock_w{
+	width: 100%;
+	max-width: 1000px;
+	}
+
+	.gigabyte_gaming_overclock_i{
+	width: 100%;
+	padding-left: 5%;
+	text-align: center;
+	}
+
+	.gigabyte_gaming_overclock_i img{
+	width: 100%;
+	max-width: 500px;
+	margin: auto;
+	padding-top: 3%;
+	}
+
+	.gigabyte_gaming_en_download_w{
+	max-width: 1000px;
+	}
+
+
+}
+
+@media screen and (max-width: 768px) {
+	.gigabyte_vga_flex{
+	display: block;
+	}
+
+	.gigabyte_vga_slogan_w{
+	width: 100%;
+	padding-left: 0%;
+	text-align: left;
+	}
+
+	.gigabyte_vga_slogan_w h2{
+
+	color: #000;
+	text-shadow: 2px #000;
+	font-size: 1rem;
+	}
+
+	.gigabyte_vga_slogan_i{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_h2{
+	font-size: 1.0rem;
+	}
+
+	.gigabyte_gaming_cooling_h2{
+	font-size: 0.8rem;
+	color: #fff;
+	}
+
+	.gigabyte_gaming_cooling_i{
+	width: 100%
+	}
+
+	.gigabyte_gaming_cooling_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling{
+	background-image:none;
+	}
+
+	.gigabyte_gaming_cooling_002_w{
+	min-height: 0px;
+	padding: 3%;
+	}
+
+	.gigabyte_gaming_cooling_003_i{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling_003_w{
+	width: 100%;
+	margin-bottom: 0%;
+
+	}
+
+	.gigabyte_gaming_cooling_004_i{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_cooling_004_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_rgb_i{
+	width: 100%;
+	display: block;
+	}
+
+	.gigabyte_gaming_rgb_w{
+	width: 100%;
+	}
+
+	.gigabyte_gaming_du_i{
+	width: 100%;
+	padding: 0%;
+	}
+
+	.gigabyte_gaming_du_w{
+	width: 100%;
+	margin-bottom: 10%;
+	border: none;
+	}
+
+	.gigabyte_gaming_du{
+	padding-bottom: 15%;
+	}
+
+	.gigabyte_gaming_le_w {
+		width: 100%;
+	}
+	.gigabyte_gaming_le_i {
+		width: 100%;
+	}
+
+	.gigabyte_gaming_en_download{
+	width: 100%;
+	background-image: none;
+	padding: 5%;	
+	}
+
+	.gigabyte_gaming_en_download_w{
+	max-width: 1000px;
+	}
+
+	.gigabyte_gaming_overclock{
+	width: 100%;
+	background-image: none;
+	padding: 5%;
+	}	
+
+
+	.gigabyte_gaming_overclock_w{
+	width: 100%;
+	max-width: 1000px;
+	}
+
+	.gigabyte_gaming_overclock_i{
+	width: 100%;
+	padding-left: 5%;
+	text-align: center;
+	}
+
+	.gigabyte_gaming_overclock_i img{
+	width: 100%;
+	max-width: 400px;
+	margin: auto;
+	padding-top: 3%;
+	}
+
+
+
+}
